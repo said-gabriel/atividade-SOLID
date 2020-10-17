@@ -1,0 +1,5 @@
+DontRepeat - A repetição de código é ruim por gerar repetição e,
+caso ocorra necessidade de manutenção ela será feita em um único local/
+locais enxutos, diferentemente de um codigo repetitivo, que causa mais
+problemas na hora de se alterar. Além disso, reutilizar o código se torna mais
+dificil, e também fere o princípio do aberto fechado.
