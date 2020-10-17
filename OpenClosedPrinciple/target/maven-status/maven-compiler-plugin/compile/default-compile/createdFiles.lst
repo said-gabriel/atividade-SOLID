@@ -1,0 +1,7 @@
+OCP_INCORRETO\Pagamento.class
+OCP_CORRETO\PagamentoBoleto.class
+OCP_CORRETO\CarteiraNovo.class
+OCP_CORRETO\PagamentoCartaoCredito.class
+OCP_INCORRETO\Carteira.class
+Principal\main.class
+OCP_CORRETO\PagamentoNovo.class

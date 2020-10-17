@@ -1,0 +1,12 @@
+DRY1_CORRETO\ClienteNovo.class
+DRY1_INCORRETO\Gerente.class
+DRY2_CORRETO\ItemNovo.class
+DRY2_INCORRETO\Calcula.class
+DRY1_CORRETO\PessoaNovo.class
+DRY2_INCORRETO\Produto.class
+DRY1_INCORRETO\Cliente.class
+DRY1_CORRETO\GerenteNovo.class
+Principal\Principal.class
+DRY2_CORRETO\CalculaNovo.class
+DRY2_CORRETO\ProdutoNovo.class
+DRY2_INCORRETO\Item.class

@@ -1,0 +1,7 @@
+RPC_INCORRETO\Pessoa.class
+RPC_CORRETO\PessoaNovo.class
+RPC_CORRETO\GerenteNovo.class
+RPC_INCORRETO\Funcionario.class
+RPC_CORRETO\FuncionarioNovo.class
+Principal\main.class
+RPC_INCORRETO\Gerente.class
